@@ -1,4 +1,4 @@
-import mysql connector
+import mysql connect
 
 cnx = mysql.connector.connect(
     user='',\
